@@ -1,4 +1,4 @@
-Borough,lat,lang,name,categori,venue_lat,vanue_lng,distance
+Borough,lat,lng,name,categori,venue_lat,vanue_lng,distance
 Barking and Dagenham ,51.57479001748132,0.1636399795131922,Asia Spice,Indian Restaurant,51.574758,0.18647,1579
 Barking and Dagenham ,51.57479001748132,0.1636399795131922,Bekash,Indian Restaurant,51.57503549993377,0.1870432675194142,1619
 Barking and Dagenham ,51.57479001748132,0.1636399795131922,Cosmo,Restaurant,51.575445088587436,0.18045558717289273,1165
